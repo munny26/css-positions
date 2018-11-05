@@ -1,0 +1,16 @@
+.left{
+    width: 80%;
+    background-color: navajowhite;
+    color: black;
+    height: 450px;
+    float: left;
+    position: static;
+}
+.right{
+    width: 20%;
+    background-color: black;
+    color: white;
+    height: 450px;
+    float: right;
+    position: static;
+}

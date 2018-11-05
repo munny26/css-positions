@@ -1,0 +1,23 @@
+.box1{
+    width: 250px;
+    height: 150px;
+    background-color: lightpink;
+    float: left;
+}
+.box2{
+    width: 170px;
+    height: 150px;
+    position: absolute;
+    left: 180px;
+    background-color: blue;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.box3{
+    width: 173px;
+    height: 150px;
+    background-color: palevioletred;
+    float: left;
+}
